@@ -1,5 +1,5 @@
-I’ve migrated to [code.skyizwite.dev](https://code.skyizwhite.dev/paku).
+I’ve migrated to [code.skyizwhite.dev](https://code.skyizwhite.dev/paku).
 
-The repositories here are automatically mirrored from the original ones on code.skyizwite.dev.
+The repositories here are automatically mirrored from the original ones on code.skyizwhite.dev.
 
-Reporting issues and submitting pull requests are still welcome and will be managed on GitHub.
+Reporting issues and submitting pull requests on GitHub are still welcome!
